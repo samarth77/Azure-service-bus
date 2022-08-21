@@ -1,5 +1,5 @@
 {
-  "name": "azure-service-bus-wrapper",
+  "name": "@samarth7/azure-service-bus-wrapper",
   "version": "1.0.0",
   "type": "module",
   "description": "Example of how an Azure service bus is used in application. ",

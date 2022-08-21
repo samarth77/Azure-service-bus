@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/samarth77/Azure-service-bus.git"
+    "url": "git+https://github.com/samarth77/azure-service-bus-wrapper.git"
   },
   "keywords": [
     "servicebus",

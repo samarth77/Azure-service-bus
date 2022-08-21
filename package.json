@@ -1,0 +1,29 @@
+{
+  "name": "service-bus-example",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Example of how an Azure service bus is used in application. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samarth77/Azure-service-bus.git"
+  },
+  "keywords": [
+    "servicebus",
+    "azure",
+    "messaging"
+  ],
+  "author": "Saurabh Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samarth77/Azure-service-bus/issues"
+  },
+  "homepage": "https://github.com/samarth77/Azure-service-bus#readme",
+  "dependencies": {
+    "@azure/service-bus": "^7.7.0",
+    "dotenv": "^16.0.1"
+  }
+}
